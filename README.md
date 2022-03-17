@@ -1,6 +1,6 @@
 # vue3-daily
 
-![working Vue](assets/Sapture.PNG)
+![working Vue](assets/Capture.PNG)
 ## Project setup
 ```
 npm install
